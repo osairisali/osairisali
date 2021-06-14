@@ -6,8 +6,9 @@ Hello, I'm Ali. I'm an aspiring fullstack developer. 🔭 I’m currently applyi
 📫 You can reach me by twitter or linkedin
 
 Here you can find some of my projects in learning web development.
-Data structure and algorithm 
-- Simple nodeJS project for online shop: [super duper simple online shop](https://github.com/osairisali/nodeJSProject)
+- [Simple nodeJS project for online shop](https://github.com/osairisali/nodeJSProject)
+- My learning in [data structures and algorithm](https://github.com/osairisali/DS-Algorithm)
+- My react expense list [expensify](https://github.com/osairisali/react-expensify/tree/master)
 
 
 
