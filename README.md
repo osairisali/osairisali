@@ -7,7 +7,7 @@ Hello, I'm Ali. I'm an aspiring fullstack developer. 🔭 I’m currently applyi
 
 Here you can find some of my projects in learning web development.
 Data structure and algorithm 
-NodeJS & websocket project
+- Simple nodeJS project for online shop [super duper simple online shop](https://github.com/osairisali/nodeJSProject)
 
 
 
