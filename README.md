@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**osairisali/osairisali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Ali. I'm an aspiring fullstack developer. 🔭 I’m currently applying for web development jobs. The tech stack that I use for web development are Node.js, Express, Mongoose, Sequelize, Socket.io, GraphQL, TypeScript, and React. For data analysis & academic projects, I usually use RShiny, tidyverse, and many more graph packages. I love learning as I can comprehend how things works. Looking forward to a dev 💻 adventure!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me by twitter or linkedin
+
+Here you can find some of my projects in learning web development.
+Data structure and algorithm 
+NodeJS & websocket project
+
+
+
+
+
