@@ -9,6 +9,7 @@ Here you can find some of my projects in learning web development.
 - [Simple nodeJS project for online shop](https://github.com/osairisali/nodeJSProject)
 - My learning in [data structures and algorithm](https://github.com/osairisali/DS-Algorithm)
 - My react expense list [expensify](https://github.com/osairisali/react-expensify/tree/master)
+- My social media web app implementations in [frontend[(https://github.com/osairisali/sosmedApp-frontend) and [backend](https://github.com/osairisali/sosmedApp-backend)
 
 
 
