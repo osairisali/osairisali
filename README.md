@@ -10,7 +10,7 @@ Here you can find some of my projects in learning web development.
 - My learning in [data structures and algorithm](https://github.com/osairisali/DS-Algorithm)
 - My react expense list [expensify](https://github.com/osairisali/react-expensify/tree/master) and you can find it hosted at heroku https://expensify-mimio.herokuapp.com/
 - My social media web app implementations in [frontend](https://github.com/osairisali/sosmedApp-frontend) and [backend](https://github.com/osairisali/sosmedApp-backend)
-- My progressive web app implementation with no frameworks used (here)[https://github.com/osairisali/restaurant-app] as my dicoding final submission. It is hosted at (firebase)[https://restaurant-app-23e98.firebaseapp.com/]
+- My progressive web app implementation with no frameworks used [here](https://github.com/osairisali/restaurant-app) as my dicoding final submission. It is hosted at [firebase](https://restaurant-app-23e98.firebaseapp.com/)
 
 
 
