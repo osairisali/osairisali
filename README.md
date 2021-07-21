@@ -1,4 +1,4 @@
-### Hi there 👋
+### Haloo 👋
 
 
 Hello, I'm Ali. I'm an aspiring fullstack developer. 🔭 I’m currently applying for web development jobs. The tech stack that I use for web development are Node.js, Express, Mongoose, Sequelize, Socket.io, GraphQL, TypeScript, and React. For data analysis & academic projects, I usually use RShiny, tidyverse, and many more graph packages. I love learning as I can comprehend how things works. Looking forward to a dev 💻 adventure!
